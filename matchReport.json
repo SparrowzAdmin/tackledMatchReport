@@ -1,0 +1,31 @@
+{
+  "body": {
+    "feeds":[
+        {   
+            "feedNo":5,
+            "feedImageUrl":"http://www.prokabaddiquiz.com/img/teams/1.png",
+            "feedDescription":"Bengaluru Bulls (BGB) is a Kabaddi team based in Bengaluru, Karnataka that plays in the Pro Kabaddi League. The team is currently led by Rohit Kumar for Season 5 [1] and coached by Randhir Singh. The team is owned by Kosmik Global Media.[2] Bulls play their home matches at the Kanteerava Indoor Stadium. Bulls lost in the semi finals in 2014. Bulls were the 1st runners-up in 2015."
+        },
+        {   
+            "feedNo":4,
+            "feedImageUrl":"http://www.prokabaddiquiz.com/img/teams/2.png",
+            "feedDescription":"Bengaluru Bulls (BGB) is a Kabaddi team based in Bengaluru, Karnataka that plays in the Pro Kabaddi League. The team is currently led by Rohit Kumar for Season 5 [1] and coached by Randhir Singh. The team is owned by Kosmik Global Media.[2] Bulls play their home matches at the Kanteerava Indoor Stadium. Bulls lost in the semi finals in 2014. Bulls were the 1st runners-up in 2015."
+        },
+        {   
+            "feedNo":3,
+            "feedImageUrl":"http://www.prokabaddiquiz.com/img/teams/3.png",
+            "feedDescription":"Bengaluru Bulls (BGB) is a Kabaddi team based in Bengaluru, Karnataka that plays in the Pro Kabaddi League. The team is currently led by Rohit Kumar for Season 5 [1] and coached by Randhir Singh. The team is owned by Kosmik Global Media.[2] Bulls play their home matches at the Kanteerava Indoor Stadium. Bulls lost in the semi finals in 2014. Bulls were the 1st runners-up in 2015."
+        },
+        {   
+            "feedNo":2,
+            "feedImageUrl":"http://www.prokabaddiquiz.com/img/teams/4.png",
+            "feedDescription":"Bengaluru Bulls (BGB) is a Kabaddi team based in Bengaluru, Karnataka that plays in the Pro Kabaddi League. The team is currently led by Rohit Kumar for Season 5 [1] and coached by Randhir Singh. The team is owned by Kosmik Global Media.[2] Bulls play their home matches at the Kanteerava Indoor Stadium. Bulls lost in the semi finals in 2014. Bulls were the 1st runners-up in 2015."
+        },
+        {   
+            "feedNo":1,
+            "feedImageUrl":"http://www.prokabaddiquiz.com/img/teams/5.png",
+            "feedDescription":"Bengaluru Bulls (BGB) is a Kabaddi team based in Bengaluru, Karnataka that plays in the Pro Kabaddi League. The team is currently led by Rohit Kumar for Season 5 [1] and coached by Randhir Singh. The team is owned by Kosmik Global Media.[2] Bulls play their home matches at the Kanteerava Indoor Stadium. Bulls lost in the semi finals in 2014. Bulls were the 1st runners-up in 2015."
+        }
+    ]
+    }
+}
