@@ -8,17 +8,17 @@
         },
         {   
             "feedNo":2,
-            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/MatchReport/Match1_App.PNG",
+            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match1_App.PNG",
             "feedDescription":"Watch out - underdog alert; Tamil Thalivas may spring a surprise!"
         },
         {   
             "feedNo":3,
-            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/MatchReport/Match2.PNG",
+            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match2.PNG",
             "feedDescription":"The fight for the Maharashtra derby is on, watch out for the Puneri Paltans getting better than U Mumba"
         },
         {   
             "feedNo":4,
-            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/MatchReport/Match2_App.PNG",
+            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match2_App.PNG",
             "feedDescription":"The fight for the Maharashtra derby is on, watch out for the Puneri Paltans getting better than U Mumba"
         }
     ]
