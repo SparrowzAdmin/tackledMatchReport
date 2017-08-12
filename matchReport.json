@@ -3,160 +3,174 @@
     "feeds":[
         {   
             "feedNo":1,
+            "feedTitle":"Match 24 - TTvsUP",
+            "feedDate":"12th Aug",
+            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match24_App.png",
+            "feedDescription":"Telugu look to avenge loss against UP Yoddhas."
+        },
+        {   
+            "feedNo":2,
+            "feedTitle":"Match 25 - GFvsDD",
+            "feedDate":"12th Aug",
+            "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match25_App.png",
+            "feedDescription":"Easy challenge for home team Gujarat against Dabang Delhi."
+        },
+        {   
+            "feedNo":3,
             "feedTitle":"Match 23 - UMvsGF",
             "feedDate":"11th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match23_App.png",
             "feedDescription":"Gujarat Fortunegiants start their home campaign against Anup Kumar’s UMumba. Mumba start off as favourites.<br/><a href='https://youtu.be/QQp0By7_7QY' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":2,
+            "feedNo":4,
             "feedTitle":"Match 21 - PUvsJP",
             "feedDate":"10th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match21_App.PNG",
             "feedDescription":"Puneri Paltans face off with ex-captain Manjeet Chillar. Who will have the last laugh?<br/><a href='https://youtu.be/PSV4tU7mwmA' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":3,
+            "feedNo":5,
             "feedTitle":"Match 22 - BBvsTN",
             "feedDate":"10th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match22_App.PNG",
             "feedDescription":"Bengaluru Bulls take on toothless Tamil Nadu. Bulls have an opportunity to finish the home leg on a high.<br/><a href='https://youtu.be/z549JCfL2BY' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":4,
+            "feedNo":6,
             "feedTitle":"Match 20 - BBvsBW",
             "feedDate":"9th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match20.PNG",
             "feedDescription":"Surjeet’s Bengal Tigers look to consolidate their wins over a tired Bengaluru Bulls. Maninder is the player to watch out for, given the weak right flank for Bulls."
         },
         {   
-            "feedNo":5,
+            "feedNo":7,
             "feedTitle":"Match 18 - GFvsHS",
             "feedDate":"8th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match18.PNG",
             "feedDescription":"Gujarat and Haryana battle it out in a equally matched defensive affair. Team with better raid performance likely to edge out."
         },
         {   
-            "feedNo":6,
+            "feedNo":8,
             "feedTitle":"Match 19 - BBvsTT",
             "feedDate":"8th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match19.PNG",
             "feedDescription":"Will home leg nightmares continue? Bengaluru Bulls take on a beaten out Telugu Titans. Both teams desperately need this win."
         },
         {   
-            "feedNo":7,
+            "feedNo":9,
             "feedTitle":"Match 16 - BWvsUP",
             "feedDate":"6th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match16_App.png",
             "feedDescription":"Bengal Warrior look to consolidate their flying start to the Season against an in-form UP Yoddhas."
         },
         {   
-            "feedNo":8,
+            "feedNo":10,
             "feedTitle":"Match 17 - BBvsPP",
             "feedDate":"6th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match17.png",
             "feedDescription":"Rohit Kumar’s Bengaluru Bulls look to recharge against Pardeep Narwal’s solid Patna Pirates."
         },
         {   
-            "feedNo":9,
+            "feedNo":11,
             "feedTitle":"Match 14 - UMvsDD",
             "feedDate":"5th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match14_App.PNG",
             "feedDescription":"Dabang Delhi to tussle it out against Anup Kumar's experienced UMumba"
         },
         {   
-            "feedNo":10,
+            "feedNo":12,
             "feedTitle":"Match 15 - BBvsUP",
             "feedDate":"5th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match15_App.PNG",
             "feedDescription":"Battle of service men as Rohit and Ajay Kumar take on nitin Tomar's Yoddhas in an evenly matched tie"
         },
         {   
-            "feedNo":11,
+            "feedNo":13,
             "feedTitle":"Match 12 - TNvsBB",
             "feedDate":"4th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match12_App.PNG",
             "feedDescription":"Tamil thalaivas need to prove a point against a strong Bengaluru Bulls at home.<br/><a href='https://youtu.be/Qwxx9eg6cLY' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":12,
+            "feedNo":14,
             "feedTitle":"Match 13 - DDvsPU",
             "feedDate":"4th Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match13_App.PNG",
             "feedDescription":"Raider short dabang Delhi go up against a solid Puneri Paltan.<br/><a href='https://youtu.be/u4DwzhdUNqk' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":13,
+            "feedNo":15,
             "feedTitle":"Match 11 - TTvsPP",
             "feedDate":"3rd Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match11.PNG",
             "feedDescription":"Will Rakesh Kumar be able to stop Pardeep Narwal’s Pirates and save face for Telugu Titans at home.<br/><a href='https://youtu.be/HJysZUFUaJk' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":14,
+            "feedNo":16,
             "feedTitle":"Match 9 - GFvsHS",
             "feedDate":"2nd Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match9.PNG",
             "feedDescription":"Gujarat hold the edge in the contest of corners.<br/><a href='https://youtu.be/kh9u2d4m5Kk' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":15,
+            "feedNo":17,
             "feedTitle":"Match 10 - TTvsBW",
             "feedDate":"2nd Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match10.PNG",
             "feedDescription":"Telugu have another tough test against Surjeet's Warriors.<br/><a href='https://youtu.be/r9vf1H6aiaI' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":16,
+            "feedNo":18,
             "feedTitle":"Match 7 - DDvsGF",
             "feedDate":"1st Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match7.PNG",
             "feedDescription":"The eagles are soaring high after a huge win against the panthers, but will their raiding get better of the famed Iranian defensive corners? Another tight match in the corner.<br/><a href='https://youtu.be/E6E7qRYgjzA' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":17,
+            "feedNo":19,
             "feedTitle":"Match 8 - TTvsUP",
             "feedDate":"1st Aug",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match8_App.PNG",
             "feedDescription":"You cannot keep Rahul silent for long, can you? But with the Yoddha poster boy show his true worth and score a super 10?<br/><a href='https://youtu.be/iUMDJ6YCwCQ' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":18,
+            "feedNo":20,
             "feedTitle":"Match 5 - UMvsHS",
             "feedDate":"30th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match5.PNG",
             "feedDescription":"Have faith and stay calm. U Mumba will not fail you twice. Watch out for U Mumba break through HR steel defense.<br/><a href='https://youtu.be/4AjNahJkbDU' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":19,
+            "feedNo":21,
             "feedTitle":"Match 6 - TTvsBB",
             "feedDate":"30th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match6.PNG",
             "feedDescription":"A landmark match for Rahul, but will he own up for yesterday's loss and get better of Rohit and see his team through?<br/><a href='https://youtu.be/Q83GtSeE9Kw' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":20,
+            "feedNo":22,
             "feedTitle":"Match 3 - JPvsDD",
             "feedDate":"29th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match3.png",
             "feedDescription":"Abhishek Bachchan’s Panthers take on underdogs Dabang Delhi<br/><a href='https://youtu.be/qR40iFd0QEU' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":21,
+            "feedNo":23,
             "feedTitle":"Match 4 - TTvsPP",
             "feedDate":"29th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match4_App.PNG",
             "feedDescription":"Rahul Chaudhary or Pardeep Narwal - Who will have the last laugh<br/><a href='https://youtu.be/_2nKmcXFK2M' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":22,
+            "feedNo":24,
             "feedTitle":"Match 1 - TTvsTN",
             "feedDate":"28th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match1.PNG",
             "feedDescription":"Watch out - underdog alert; Tamil Thalaivas may spring a surprise!<br/><a href='https://youtu.be/-ds9vrrdbz8' target='_system'>Watch video</a>"
         },
         {   
-            "feedNo":23,
+            "feedNo":25,
             "feedTitle":"Match 2 - UMvsPU",
             "feedDate":"28th Jul",
             "feedImageUrl":"https://static.sparrowzapp.com/images/Tackled/Report/Match2_App.PNG",
